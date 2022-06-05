@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qerxx
-- 👀 I’m interested in frontend-developers
+- 👀 I’m interested in frontend-developer
 - 🌱 I’m currently learning Html+Css >> js >> react
 - 💞️ I’m looking to collaborate on Vladelen Minin
 - 📫 How to reach me ijojo1703@gmail.com
